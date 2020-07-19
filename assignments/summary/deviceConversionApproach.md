@@ -1,4 +1,10 @@
 # Approach to convert a Industry 3.0 device to **Industry 4.0**
+1. Data flows from **sensors/actuators** through field bus to **Controllers**
+2. From PLCs to **Open Platform Communications** through Control Bus
+3. Next it is sent to **IOT Gateway**
+4. Then all the information goes to **IOT Hub**
+5. Here the data can be **Moniterised, analysed and etc**
+
 [![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcbkFbU2Vuc29ycyBBY3R1YXRvcnNdLS0-fEZpZWxkIEJ1c3wgQihbUExDLENOQyxETFNdKVxuQiAtLT58Q29udHJvbCBCVVN8IEMoW09QQyBTRVJWRVJdKVxuQyAtLT58T1BDIFVBLCBPUEMgREF8IEQoSU9UIGdhdGV3YXkpXG5EIC0tPnxNUVFUIENvQVAgV0VCU09DS0VUfCBpZDFbKElPVCBIVUIpXSIsIm1lcm1haWQiOnsidGhlbWUiOiJmb3Jlc3QifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbU2Vuc29ycyBBY3R1YXRvcnNdLS0-fEZpZWxkIEJ1c3wgQihbUExDLENOQyxETFNdKVxuQiAtLT58Q29udHJvbCBCVVN8IEMoW09QQyBTRVJWRVJdKVxuQyAtLT58T1BDIFVBLCBPUEMgREF8IEQoSU9UIGdhdGV3YXkpXG5EIC0tPnxNUVFUIENvQVAgV0VCU09DS0VUfCBpZDFbKElPVCBIVUIpXSIsIm1lcm1haWQiOnsidGhlbWUiOiJmb3Jlc3QifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
 
 ## Architecture of AWS
