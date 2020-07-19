@@ -13,8 +13,8 @@
 - **Lack of Documentation**
 - **Properitary PLC protocols**
 
-> # SOLUTION
-> Get data from Industry 3.0 devices/meters/sensors without changes to the original device.    
-> And then send the data to the Cloud using Industry 4.0 devices
+ # SOLUTION
+ **Get data from Industry 3.0 devices/meters/sensors without changes to the original device.**        
+**And then send the data to the Cloud using Industry 4.0 devices**
 
 ![i](https://www.researchgate.net/profile/Syed_Bilal_Shah2/publication/327261377/figure/fig1/AS:664485169741827@1535437018981/shows-the-basic-communication-and-services-architecture-for-smart-grid-in-the-context-of.png)
